@@ -1,4 +1,4 @@
-##Hello! I'm Sediq Aziz
+## Hello! I'm Sediq Aziz
 I'm a passionate about technology and programming. My journey through university has equipped me with a solid foundation in Computer Science, and I'm excited to apply my skills in the real world. I'm known for being friendly, approachable, and always eager to learn and collaborate with others.
 
 ##Skills and Interests
