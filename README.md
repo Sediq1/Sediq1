@@ -15,7 +15,7 @@ These are the technologies that I have worked with so far:
 
 ## What I'm Working on 🖥
 
-### How to reach me ✉
+### How to reach me 📩
 You can contact me at these links:<br>
 ![Yahoo](https://img.shields.io/badge/Yahoo-430297?style=for-the-badge&logo=yahoo&logoColor=white)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sediqaziz/)
