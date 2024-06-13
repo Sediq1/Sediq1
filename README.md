@@ -14,7 +14,6 @@ These are the technologies that I have worked with so far:
 
 
 ## What I'm Working on
-I'm currently 
 
 ### How to reach me
 You can contact me at these links:<br>
