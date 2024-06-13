@@ -17,8 +17,7 @@ These are the technologies that I have worked with so far:
 I'm currently 
 
 ### How to reach me
-You can contact me at my email address:
+You can contact me at my email address:<br>
 ![Yahoo](https://img.shields.io/badge/Yahoo-430297?style=for-the-badge&logo=yahoo&logoColor=white)
-
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sediqaziz/)
 
