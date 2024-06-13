@@ -18,5 +18,6 @@ I'm currently
 
 ## How to reach me
 You can contact me at my email address:
-[!Ymail badge](https://img.shields.io/badge/Ymail-sediqaziz@ymail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sediqaziz@ymail.com)
+![Yahoo](https://img.shields.io/badge/Yahoo-430297?style=for-the-badge&logo=yahoo&logoColor=white)
+
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sediqaziz/)](https://www.linkedin.com/in/sediqaziz/
