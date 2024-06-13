@@ -1,4 +1,4 @@
-## Hello! I'm Sediq Aziz
+## Hello! I'm Sediq Aziz 👋
 I'm a passionate CS major with a wide experience in technology and programming. My journey through university has equipped me with a solid foundation in Computer Science, and I'm excited to apply my skills in the real world. I'm known for being friendly, approachable, and always eager to learn and collaborate with others.
 
 ## Skills and Interests
@@ -13,9 +13,9 @@ These are the technologies that I have worked with so far:
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 
-## What I'm Working on
+## What I'm Working on 🖥
 
-### How to reach me
+### How to reach me ✉
 You can contact me at these links:<br>
 ![Yahoo](https://img.shields.io/badge/Yahoo-430297?style=for-the-badge&logo=yahoo&logoColor=white)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sediqaziz/)
